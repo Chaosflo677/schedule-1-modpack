@@ -1,12 +1,10 @@
 {
-    "RangedWeaponAssetPaths": [
-        "Avatar/Equippables/Revolver",
-        "Avatar/Equippables/M1911",
-        "Avatar/Equippables/PumpShotgun"
-    ],
-    "MeleeWeaponAssetPaths": [
-        "Avatar/Equippables/Knife"
-    ],
-    "MinRankForRanged": 2,
-    "AfterDealAmbushEnabled": true
+  "RangedWeaponAssetPaths": [
+    "Avatar/Equippables/M1911"
+  ],
+  "MeleeWeaponAssetPaths": [
+    "Avatar/Equippables/Knife"
+  ],
+  "MinRankForRanged": 2,
+  "AfterDealAmbushEnabled": true
 }

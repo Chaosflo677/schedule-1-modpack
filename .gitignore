@@ -1,0 +1,11 @@
+baselib.dll
+GameAssembly.dll
+/MelonLoader
+Mods/CartelEnforcer/CartelItems/los_pollos_hermanos.json
+Mods/CartelEnforcer/CartelItems/schedule_ii.json
+Schedule I.exe
+/Schedule I_Data
+UnityCrashHandler64.exe
+UnityPlayer.dll
+/UserData
+version.dll
